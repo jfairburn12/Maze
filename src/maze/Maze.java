@@ -11,7 +11,7 @@ import java.util.Stack;
 
 /**
  *
- * @author James Fairburn
+ * 
  */
 public class Maze {
     final int MAX_SIZE = 64;
